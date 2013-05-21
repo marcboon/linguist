@@ -1208,6 +1208,10 @@ Smalltalk:
 Smarty:
   primary_extension: .tpl
 
+Squirrel:
+  type: programming
+  primary_extension: .nut
+
 Standard ML:
   type: programming
   color: "#dc566d"
